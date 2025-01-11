@@ -50,7 +50,7 @@ A collaborative repository for sharing and annotating ML research papers. Let's 
 
 - **Enhanced Understanding**: Deepens engagement with complex concepts.
 - **Community Contribution**: Shares knowledge, facilitating collaborative learning.
-- **Skill Showcase**: Enhances participant profiles through demonstrated analytical skills.
+- **Skill Showcase**: Enhances participant profiles through demonstrated analytical skills..
 
 ## Benefits to the Community
 
