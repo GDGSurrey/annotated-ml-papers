@@ -2,6 +2,8 @@
 
 A collaborative repository for sharing and annotating ML research papers. Let's make learning easier for everyone!
 
+![alt text](rag_screenshot.png)
+
 ## Step by Step Guide to Contribute
 
 1. **Fork the Repository**
