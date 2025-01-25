@@ -240,13 +240,13 @@ Secondly, there is a lack of a unified technical framework [2], resulting in poo
 
 Table 2: Technical Challenges Faced by Knowledge Graph in the New Paradigm.
 
-The goal of knowledge graph is to construct a machine-understandable and machine-reasonable digital world, achieving unified representation of knowledge semantics and hierarchical capability. This enables rapid construction of domain-specific knowledge graph and cross-scenario transferability, which is a fundamental core issue that must be addressed in the accelerated industrialization of knowledge graph.
+[<span style="background-color: darkorange;">The goal of knowledge graph is to construct a machine-understandable and machine-reasonable digital world, achieving unified representation of knowledge semantics and hierarchical capability</span>](# "Build a machine-reasonable digital world with unified semantic representation."). This enables rapid construction of domain-specific knowledge graph and cross-scenario transferability, which is a fundamental core issue that must be addressed in the accelerated industrialization of knowledge graph.
 
 ## **1.5 Industrial Knowledge Graph Engine Based on SPG**
 
 The Knowledge Graph Platform of Ant Group, supported by years of experience in the financial industry, has developed a semantic framework based on property graph called Semantic-enhanced Programmable Graph (SPG). It creatively integrates the structural nature of Labeled Property Graph (LPG) with the semantic nature of RDF, overcoming the challenges of industrial implementation faced by RDF/OWL's semantic complexity while inheriting the advantages of the simplicity of LPG's structure and compatibility with big data systems.
 
-Firstly, SPG provides a clear definition of knowledge in the digital world. Knowledge is the accumulation of human exploration in the material and spiritual world, but how should machines perceive knowledge in the digital world? SPG defines the concept of knowledge in the digital world through formal description and objective facts. In conjunction with Figure 5, SPG provides a formal definition from three dimensions:
+Firstly, [<span style="background-color: darkorange;">SPG defines digital knowledge clearly.</span>](# "SPG defines digital knowledge clearly") Knowledge is the accumulation of human exploration in the material and spiritual world, but how should machines perceive knowledge in the digital world? SPG defines the concept of knowledge in the digital world through formal description and objective facts. In conjunction with Figure 5, SPG provides a formal definition from three dimensions:
 
 **(1) Domain Type Structure Constraint:** In the objective world, every entity (Thing) belongs to at least one type (Class), and the digital world follows the same principle. Based on SPG, the Domain Model Constrained (SPG DC) provides a constraint on the domain structure type, enabling automatic classification of knowledge subjects and hierarchical organization from dynamic spatiotemporal to static common knowledge.
 
@@ -335,7 +335,7 @@ The data structure of the knowledge graph required by the business is typically 
 
 Figure 8: Schema Differences after Incorporating Business Rules
 
-The above example demonstrates a portion of the redundant creations that occur during the business decision-making process. In knowledge graph management, extracting complex implicit associations from basic facts is a fundamental requirement. However, we need to address how to avoid continuous schema expansion caused by the refinement of business objectives and ensure the logical consistency between rule calculations and the underlying facts. These are fundamental issues that knowledge management must address.
+The above example demonstrates a portion of the redundant creations that occur during the business decision-making process. In knowledge graph management, extracting complex implicit associations from basic facts is a fundamental requirement. However, [<span style="background-color: darkorange;">we need to address how to avoid continuous schema expansion caused by the refinement of business objectives and ensure the logical consistency between rule calculations and the underlying facts.</span>](# "Avoid schema expansion and ensure rule-fact consistency.") These are fundamental issues that knowledge management must address.
 
 ## **2.2 Challenges in Applying LPG to the Risk Mining Knowledge Graph**
 
