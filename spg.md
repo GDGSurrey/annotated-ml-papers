@@ -5,7 +5,9 @@
 # **——The new generation industrial-grade knowledge semantic framework and engine**
 
 
-Utilize SPG's domain type constraints and the fusion representation of facts and logic to automatically complete and increase the semantic relations between knowledge elements, promoting the explicit densification of sparse relationships between knowledge elements. Using the <span style="background-color: darkorange;">SPG framework can accelerate the knowledge integration of massive enterprise data, and seamlessly connect AI applications through its knowledge symbolic representation and programmability capabilities.</span>
+Utilize SPG's domain type constraints and the fusion representation of facts and logic to automatically complete and increase the semantic relations between knowledge elements, promoting the explicit densification of sparse relationships between knowledge elements. Using the 
+[<span style="background-color: darkorange;">SPG framework can accelerate the knowledge integration of massive enterprise data, and seamlessly connect AI applications through its knowledge symbolic representation and programmability capabilities.</span>](# "The main Idea of SPG")
+
 
 > **Ant Group × OpenKG co-produced August 2023**
 
