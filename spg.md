@@ -565,7 +565,13 @@ In order to ensure that updates to properties/relations of "Person" and "UserAcc
 
 ## **2.9 Summary of Problems with Semantic-less, Non-programmable Labeled Property Graph**
 
-Firstly, knowledge management is associated with the entire lifecycle of the business, requiring the ability to evolve iteratively and support continuous business iteration while effectively avoiding combinatorial explosion and duplicate construction. Secondly, knowledge management faces the complex problem of modeling knowledge from incomplete data sets, heterogeneous data sources, and multiple business expert perspectives. This requires the ability to implement differentiated perspectives and lightweight alignment of heterogeneous data sources through programmable paradigms, thereby reducing system complexity. Lastly, knowledge management needs to establish necessary knowledge hierarchies and classification systems to achieve effective linkage, induction, and deduction between different levels. This enables automatic extraction of static common knowledge to support efficient cross-business reuse and effective accumulation of core assets. The following chapter 3 and 4 will provide detailed explanations of the semantics-enhanced programmable framework (SPG).
+Firstly, [<span style="background-color: darkorange;">knowledge management is associated with the entire lifecycle of the business, requiring the ability to evolve iteratively and support continuous business iteration while effectively avoiding combinatorial explosion and duplicate construction.</span>](# "Iterative evolution & avoiding duplication")
+
+Secondly, [<span style="background-color: darkorange;"> knowledge management faces the complex problem of modeling knowledge from incomplete data sets, heterogeneous data sources, and multiple business expert perspectives. This requires the ability to implement differentiated perspectives and lightweight alignment of heterogeneous data sources through programmable paradigms, thereby reducing system complexity.</span>](# "Multi-perspectives & lightweight alignment , reduce complexity  via programmable paradigms")
+
+Lastly, [<span style="background-color: darkorange;"> knowledge management needs to establish necessary knowledge hierarchies and classification systems to achieve effective linkage, induction, and deduction between different levels. This enables automatic extraction of static common knowledge to support efficient cross-business reuse and effective accumulation of core assets.</span>](# "Knowledge hierarchies & efficient reuse")
+
+[<span style="background-color: darkorange;">The following chapter 3 and 4 will provide detailed explanations of the semantics-enhanced programmable framework (SPG).</span>](# "Further explanation of SPG")
 
 # **Chapter 3 Semantic Enhancement Programmable Framework (SPG)**
 
